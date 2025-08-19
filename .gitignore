@@ -3,3 +3,10 @@ __pycache__
 .serena
 .claude/settings.local.json
 PRPs/local
+
+# MCP configuration with sensitive data
+.mcp.json
+
+# Conversation logs
+2025-*.txt
+*.log
